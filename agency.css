@@ -147,7 +147,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 .navbar-custom {
-  background-color: #222222;
+  background-color: #000000;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
@@ -242,7 +242,7 @@ header .intro-text {
   padding-bottom: 50px;
   opacity:0.5;
   z-index:99;
-  color:#000;
+  color:#fff;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
